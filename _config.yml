@@ -1,0 +1,4 @@
+# Global configuration
+encoding: UTF-8
+timezone: Etc/UTC
+theme: null
